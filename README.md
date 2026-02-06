@@ -1,6 +1,6 @@
 # Audio Pipeline with Azure
 
-This project is a **Flask-based web application** for managing, processing, and searching audio files using **Azure Blob Storage**, **NLP models**, and **speech processing pipelines**.
+This project is a **Flask-based web application** for managing, processing, and searching audio files using **Azure Blob Storage**, **NLP models**, and **speech processing pipelines**
 
 ---
 
